@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackWithFlutter", "FullStackWithFlutter\FullStackWithFlutter.csproj", "{19F299F5-B753-4970-8AF6-98DF07C54A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackWithFlutter.Core", "FullStackWithFlutter.Core\FullStackWithFlutter.Core.csproj", "{CF88E2D2-8114-4BCD-A683-27724901D12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackWithFlutter.Infrastructure", "FullStackWithFlutter.Infrastructure\FullStackWithFlutter.Infrastructure.csproj", "{7B811119-D518-425D-AA72-36A141C84D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F299F5-B753-4970-8AF6-98DF07C54A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F299F5-B753-4970-8AF6-98DF07C54A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F299F5-B753-4970-8AF6-98DF07C54A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F299F5-B753-4970-8AF6-98DF07C54A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF88E2D2-8114-4BCD-A683-27724901D12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF88E2D2-8114-4BCD-A683-27724901D12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF88E2D2-8114-4BCD-A683-27724901D12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF88E2D2-8114-4BCD-A683-27724901D12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B811119-D518-425D-AA72-36A141C84D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B811119-D518-425D-AA72-36A141C84D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B811119-D518-425D-AA72-36A141C84D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B811119-D518-425D-AA72-36A141C84D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FA05DA-16CA-49C5-A012-8065B5588E75}
+	EndGlobalSection
+EndGlobal

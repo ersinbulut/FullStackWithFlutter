@@ -1,0 +1,6 @@
+@FullStackWithFlutter_HostAddress = http://localhost:5273
+
+GET {{FullStackWithFlutter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
